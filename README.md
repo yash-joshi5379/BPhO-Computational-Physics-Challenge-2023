@@ -41,5 +41,5 @@ This project provides a graphical user interface (GUI) to interact with seven di
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
-   cd [your-repo-name]
+   git clone https://github.com/yash-joshi5379/BPhO-Computational-Physics-Challenge-2023.git
+   cd BPhO-Computational-Physics-Challenge-2023
