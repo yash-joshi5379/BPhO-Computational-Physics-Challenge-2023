@@ -7,6 +7,15 @@ An interactive Python application built with **Kivy** and **Matplotlib** to simu
 ## 🌌 Project Overview
 This project provides a graphical user interface (GUI) to interact with seven distinct computational physics tasks. Using real-world planetary data (semi-major axes, eccentricity, orbital periods, and inclinations), the simulation models the movement of the planets and Pluto.
 
+## 📺 Project Demo Video
+
+Watch the full walkthrough of the application and the physics behind each task:
+
+[![BPhO Computational Physics Challenge 2023 Demo](https://img.youtube.com/vi/-qhC-RXS28Q/0.jpg)](https://www.youtube.com/watch?v=-qhC-RXS28Q)
+
+> [!TIP]
+> Click the image above to watch the demo on YouTube.
+
 ## 🛠 Features & Tasks
 
 * **Task 1: Kepler’s Third Law Proof**
