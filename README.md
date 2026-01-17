@@ -10,8 +10,8 @@ This project provides a graphical user interface (GUI) to interact with seven di
 ## 🛠 Features & Tasks
 
 * **Task 1: Kepler’s Third Law Proof**
-    * Verifies the relationship $P^2 \propto a^3$ using linear regression.
-    * Plots orbital period ($P$) against semi-major axis ($a^{1.5}$) to demonstrate a perfect gradient of 1.00.
+    * Verifies the relationship $T^2 \propto r^3$ using linear regression.
+    * Plots orbital period ($T$) against semi-major axis ($r^{1.5}$) to demonstrate a perfect gradient of 1.00.
 * **Task 2: 2D Static Elliptical Orbits**
     * Generates static plots of the inner and outer planets using the polar equation for an ellipse.
 * **Task 3 & 4: 2D & 3D Orbital Animations**
