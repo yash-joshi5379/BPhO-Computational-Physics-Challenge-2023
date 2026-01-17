@@ -13,7 +13,6 @@ Watch the full walkthrough of the application and the physics behind each task:
 
 [![BPhO Computational Physics Challenge 2023 Demo](https://img.youtube.com/vi/-qhC-RXS28Q/0.jpg)](https://www.youtube.com/watch?v=-qhC-RXS28Q)
 
-> [!TIP]
 > Click the image above to watch the demo on YouTube.
 
 ## 🛠 Features & Tasks
