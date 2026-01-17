@@ -1,5 +1,5 @@
 # BPhO-Computational-Physics-Challenge-2023
-# Solar System Dynamics & Simulations
+## Solar System Dynamics & Simulations
 ### Developed by Anton Lewis and Yash Joshi
 
 An interactive Python application built with **Kivy** and **Matplotlib** to simulate and analyze the orbital mechanics of our solar system. This project explores planetary motion through numerical integration, geometric visualizations, and data-driven proofs.
