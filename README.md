@@ -34,7 +34,7 @@ This project provides a graphical user interface (GUI) to interact with seven di
 ## 📂 File Structure
 * `main.py`: The entry point for the Kivy application and main menu logic.
 * `task1.py` to `task7.py`: Individual modules containing the logic and plotting for each task.
-* `planets.xlsx`: The source dataset containing planetary constants (Semi-major axis `a`, Eccentricity `Epsilon`, Period `P`, and `Inclination`).
+* `planets.xlsx`: The source dataset containing planetary constants (Semi-major axis `r`, Eccentricity `Epsilon`, Period `T`, and `Inclination`).
 * `backend_kivyagg.py`: Handles the integration of Matplotlib plots into the Kivy UI.
 
 ## ⚙️ Installation & Usage
