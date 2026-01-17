@@ -37,9 +37,42 @@ This project provides a graphical user interface (GUI) to interact with seven di
 * `planets.xlsx`: The source dataset containing planetary constants (Semi-major axis `r`, Eccentricity `Epsilon`, Period `T`, and `Inclination`).
 * `backend_kivyagg.py`: Handles the integration of Matplotlib plots into the Kivy UI.
 
-## ⚙️ Installation & Usage
+## ⚙️ Installation
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yash-joshi5379/BPhO-Computational-Physics-Challenge-2023.git
    cd BPhO-Computational-Physics-Challenge-2023
+   ```
+
+2.  **Install Dependencies:**
+    The project relies on `Kivy` for the interface and `Matplotlib` for physics visualizations. Install all required packages using pip:
+    ```bash
+    pip install kivy matplotlib numpy pandas scipy openpyxl
+    ```
+
+3.  **Data Source:**
+    Ensure the file `planets.xlsx` is located in the root directory. This file contains the orbital parameters (r, Epsilon, T, and Inclination) necessary for the simulations.
+
+##  🪐 Usage
+
+1.  **Launch the Application:**
+    Run the main script to open the interactive GUI:
+    ```bash
+    python main.py
+    ```
+
+2.  **Navigate the Dashboard:**
+    Upon launching, you will see a main menu with buttons for **Task 1 through Task 7**. 
+    
+    * **Keplerian Proofs:** Click Task 1 to see the linear regression proving the $T^2 \propto r^3$ relationship.
+    * **Orbit Visualisations:** Click Task 2 to see the static orbital paths of the inner or outer planets.
+    * **2D/3D Simulations:** Select Tasks 3 or 4 to view real-time animated orbits.
+    * **Numerical Integration:** View Task 5 to see how **Simpson's Rule** is applied to Pluto's eccentric orbit.
+
+3.  **Interactive Exploration:**
+    * In **Task 6 (Spirographs)**, you can select two different planets to generate unique geometric patterns based on their relative orbital periods.
+    * In **Task 7 (Relative Motion)**, you can change the reference frame to see the solar system move relative to Earth or other planets in 3D.
+
+4.  **Exiting:**
+    Use the "Go Back" buttons within each task to return to the main menu, or simply close the window to exit the simulation.
